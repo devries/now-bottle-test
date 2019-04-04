@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "index.py", "use": "@now/python@0.0.42-canary.2" }
+  ]
+}
