@@ -9,5 +9,6 @@
 <h1>Hello World!</h1>
 <h2>From Zeit Now!</h2>
 <p>This service is running in the {{region}} region.</p>
+<p>This example is available <a href="https://github.com/devries/now-bottle-test">on github</a>.</p>
 </body>
 </html>
